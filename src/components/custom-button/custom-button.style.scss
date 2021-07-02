@@ -15,7 +15,7 @@
     cursor: pointer;
   
     &:hover {
-      background-color: white;
+      background-color: rgb(250, 245, 245);
       color: black;
       border: 1px solid black;
     }
@@ -24,7 +24,7 @@
       color: white;
 
       &:hover {
-        background-color: #357ae8;
+        background-color: #7a35e8;
         border:none;
       }
     }
