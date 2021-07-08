@@ -13,20 +13,22 @@ class Directory extends React.Component {
             sections: [
                 {
                   title: 'Hats',
-                  imageUrl: 'https://i.ibb.co/cvpntL1/hats.png',
+                  //imageUrl: 'https://i.ibb.co/cvpntL1/hats.png',
+                  imageUrl :'https://cdn.shopify.com/s/files/1/0833/0609/files/Fitted_Collection_-_Blackberry_1700x550.jpg?v=1619114669',
                   id: 1,
                   linkUrl:'Hats'
                   
                 },
                 {
                   title: 'Jackets',
-                  imageUrl: 'https://i.ibb.co/px2tCc3/jackets.png',
+                  imageUrl: 'http://1.bp.blogspot.com/-cAnN9Yq3huE/UASA_QS0zQI/AAAAAAAAAlg/dWPbjdaNmg8/s1600/4.jpg',
                   id: 2,
                   linkUrl:''
                 },
                 {
                   title: 'Sneakers',
-                  imageUrl: 'https://i.ibb.co/0jqHpnp/sneakers.png',
+                  //imageUrl: 'https://i.ibb.co/0jqHpnp/sneakers.png',
+                  imageUrl:'https://media.voguebusiness.com/photos/60140c4680e198421a9ec8d1/16:9/w_2000,h_1125,c_limit/sneakers-sustainability-voguebus-janine-abrenilla-jan-21-promo.jpg',
                   id: 3,
                   linkUrl:''
                 },
